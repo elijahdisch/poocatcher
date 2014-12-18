@@ -1,13 +1,20 @@
-.poo1 {
-	content:url('../images/poo1.png');
-    width: 5%;
+.target {
+	content: '';
+	background: url('../images/poo1.png') no-repeat;
+	background-size: 100%;
+	width: 0;
+  	height: 0;
+  	padding: 2.5%;
 }
 
 .player {
-    content:url('../images/toilet.png');
-    width: 5%;
+    content: '';
+	background: url('../images/toilet1.png') no-repeat;
+	background-size: 100%;
+	width: 0;
+  	height: 0;
+  	padding: 2.5%;
 }
 
-.toilet1 {
-}
+.toilet1 {}
 
